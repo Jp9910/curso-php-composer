@@ -1,6 +1,8 @@
 {
     "name": "jp9910/buscador-cursos",
     "description": "Biblioteca que busca cursos no site da Alura",
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos"],
     "type": "library",
     "authors": [
         {

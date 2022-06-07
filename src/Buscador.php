@@ -47,4 +47,10 @@ class Buscador
         }
         return $cursos;
     }
+
+    public static function metodo()
+    {
+        echo "metodo chamado" . PHP_EOL;
+        return 0;
+    }
 }

@@ -37,6 +37,11 @@
             "@phan",
             "@cs",
             "@test"
+        ],
+        "ls": "ls",
+        "executar-metodo": "Alura\\BuscadorDeCursos\\Buscador::metodo",
+        "post-update-cmd": [
+            "@test"
         ]
     },
     "scripts-descriptions": {

@@ -35,6 +35,9 @@ use Alura\BuscadorDeCursos\Buscador;
  *
  */
 
+//O que é necessário fazer para que nosso arquivo seja disponibilizado na pasta vendor/bin?
+//  Informar o caminho do arquivo na entrada bin do nosso composer.json
+
 Teste::metodo();
 Teste2::metodo();
 
